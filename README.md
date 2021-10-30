@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Dilyorbek
+- 👋 Hi, I’m Adi_Me
 - 👀 I’m interested in Software engineering and Coding
 - 🌱 I’m currently learning Python,Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 2001dilyorbekadullajonov@gmail.com
+- 📫 How to reach me 2001dilyorbekabdullajonov@gmail.com
 
 <!---
 Dilyorbekabdullajonov/Dilyorbekabdullajonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

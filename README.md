@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dilyorbekabdullajonov
+- 👋 Hi, I’m @Dilyorbek
 - 👀 I’m interested in Software engineering and Coding
 - 🌱 I’m currently learning Python,Java
 - 💞️ I’m looking to collaborate on ...
